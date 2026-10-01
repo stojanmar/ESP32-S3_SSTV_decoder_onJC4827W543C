@@ -20,11 +20,11 @@ Link to my video on Youtube: https://www.youtube.com/watch?v=3JQ2a8_2Shg
 My thanks here to Jonathan P Dawson and link to his page: https://101-things.readthedocs.io/en/latest/sstv_decoder.html
 
 If you like, you can buy me a coffee: https://ko-fi.com/stojanm
-
 Some decoded images:
+
 <img width="403" height="226" alt="20260922_225537" src="https://github.com/user-attachments/assets/d7291f20-3ad9-4235-a226-c98a0fecfad4" />
 <img width="403" height="226" alt="20260915_120207" src="https://github.com/user-attachments/assets/5bf41b90-54bd-4b88-a73b-1e566c864edf" />
-<img width="403" height="226" alt="20260917_123315" src="https://github.com/user-attachments/assets/440c5618-5287-4a28-9725-3c56872d3947" />
+
 
 
 

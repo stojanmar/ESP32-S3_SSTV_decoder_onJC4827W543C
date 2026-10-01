@@ -12,10 +12,19 @@ Verified in Arduino with ESP32 SDK core 2.0.17.
 Hardware:
 Beside display you need MAX4466 Microphone Amplifier Module. Connect its output to pin 35 on exposed display connector.
 Also provide 3v3 and GND connection between two boards.
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/e6935a5d-724e-49c8-a16e-53bcd55ff394" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/e6935a5d-724e-49c8-a16e-53bcd55ff394" />
 
 Link to my video on Youtube: https://www.youtube.com/watch?v=3JQ2a8_2Shg
 
 My thanks here to Jonathan P Dawson and link to his page: https://101-things.readthedocs.io/en/latest/sstv_decoder.html
 
 If you like, you can buy me a coffee: https://ko-fi.com/stojanm
+
+Some decode images:
+<img width="98" height="64" alt="LD7UZ4W5S9" src="https://github.com/user-attachments/assets/0b812c0c-e474-41af-a258-6080b04f8c59" />
+<img width="98" height="64" alt="NF3FH5QVX1" src="https://github.com/user-attachments/assets/4b548c30-4f06-4a4b-9b12-70123c3d9daa" />
+<img width="98" height="64" alt="JD4MF37PZT" src="https://github.com/user-attachments/assets/e26668ec-26fe-4a53-9dd7-9043bd6395ac" />
+
+
+
+

@@ -13,7 +13,7 @@ Hardware:
 Beside display you need MAX4466 Microphone Amplifier Module. Connect its output to pin 35 on exposed display connector.
 Also provide 3v3 and GND connection between two boards.
 <img width="400" height="306" alt="display" src="https://github.com/user-attachments/assets/dd563701-1df9-4ada-9bb0-bfa89c08b114" />
-<img width="120" height="1200" alt="image" src="https://github.com/user-attachments/assets/e6935a5d-724e-49c8-a16e-53bcd55ff394" />
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/e6935a5d-724e-49c8-a16e-53bcd55ff394" />
 
 Link to my video on Youtube: https://www.youtube.com/watch?v=3JQ2a8_2Shg
 
